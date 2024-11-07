@@ -13,7 +13,7 @@ iex -S mix
 
 Then start the CLI:
 ```elixir
-TodoApp.CLI.main()
+TodoOtp.CLI.main()
 ```
 
 # how to use
